@@ -8,3 +8,4 @@ https://www.microsoft.com/ja-jp/software-download/windows10
 
 「今すぐアップデート」をクリック
 
+![](./windows_10_download.png)
